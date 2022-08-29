@@ -13,14 +13,29 @@ enquires or found any bugs, feel free to contact me on Github.
 Otherwise, enjoy using the program.
 
 # Instruction
+Step 1: From the menu, choose the function that you want to perform and enter the corresponding number followed by enter.
+Step 2: Type **y** to confirm or **n** to deny. (Not case sensitive)
+If you enter an invalid input, the program will ask you to input your option again.
+
+Step 3: Enter the source directory path. Please do not include single or double qoutes.
+Step 4 - 5: Type **y** to confirm or **n** to deny. (Not case sensitive)
+
+Step 6: Renaming...
+Step 7: All Done! Press **enter** to leave the program.
+
+# Features
+1. Users are able to make confirmation for each step.
+2. Provided with a log.txt for users to trace records.
 
 # About the program
 * Name: Batch Renamer for Windows
 * Version: v0.1
 * Last Update: 29 Aug 2022
 
-# Introduction
-
+# Future Development
+1. Replace the first occurance of a string by another string
+2. Repace the last occurance of a string by another string
+3. Rename file in numeric sequence (e.g. **Document1.docx**, **Document2.docx**, **Document3.docx**, ...)
 
 # Update Log
 29 Aug 2022 - First release of the program
