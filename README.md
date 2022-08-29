@@ -13,7 +13,7 @@ enquires or found any bugs, feel free to contact me on Github.
 Otherwise, enjoy using the program.
 
 # Instruction
-Download the latest release under the release tag. Extract the zip file and run "Batch Renamer for Windows.py"
+Download the latest release under the release tag. Extract the zip file and run **"Batch Renamer for Windows.py"**
 
 Note: If you enter an invalid input, the program will ask you to input your option again.  
 
