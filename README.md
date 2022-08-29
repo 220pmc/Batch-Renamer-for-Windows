@@ -27,7 +27,7 @@ Note: If you enter an invalid input, the program will ask you to input your opti
 # Features
 1. Users are able to make confirmation for each step.
 2. Provided with a log.txt for users to trace records.
-3. There are 6 functions in this program now:
+3. There are 6 ways to rename files in this program now:
   * Add prefix
   * Add suffix (Before extension)
   * Add suffix (After extension)
