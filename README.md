@@ -13,15 +13,15 @@ enquires or found any bugs, feel free to contact me on Github.
 Otherwise, enjoy using the program.
 
 # Instruction
-Step 1: From the menu, choose the function that you want to perform and enter the corresponding number followed by enter.  
-Step 2: Type **y** to confirm or **n** to deny. (Not case sensitive)  
+***Step 1***: From the menu, choose the function that you want to perform and enter the corresponding number followed by enter.  
+***Step 2***: Type **y** to confirm or **n** to deny. (Not case sensitive)  
 If you enter an invalid input, the program will ask you to input your option again.  
 
-Step 3: Enter the source directory path. Please do not include single or double qoutes.  
-Step 4 - 5: Type **y** to confirm or **n** to deny. (Not case sensitive)  
+***Step 3***: Enter the source directory path. Please do not include single or double qoutes.  
+***Step 4 - 5***: Type **y** to confirm or **n** to deny. (Not case sensitive)  
 
-Step 6: All Done! Press **enter** to leave the program.  
-Step 7 (Optional): Check the "log.txt" file for records.  
+***Step 6***: All Done! Press **enter** to leave the program.  
+***Step 7*** (Optional): Check the "log.txt" file for records.  
 
 # Features
 1. Users are able to make confirmation for each step.
