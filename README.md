@@ -13,9 +13,10 @@ enquires or found any bugs, feel free to contact me on Github.
 Otherwise, enjoy using the program.
 
 # Instruction
+Note: If you enter an invalid input, the program will ask you to input your option again.  
+
 ***Step 1***: From the menu, choose the function that you want to perform and enter the corresponding number followed by enter.  
 ***Step 2***: Type **y** to confirm or **n** to deny. (Not case sensitive)  
-If you enter an invalid input, the program will ask you to input your option again.  
 
 ***Step 3***: Enter the source directory path. Please do not include single or double qoutes.  
 ***Step 4 - 5***: Type **y** to confirm or **n** to deny. (Not case sensitive)  
