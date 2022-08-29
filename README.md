@@ -15,6 +15,8 @@ Otherwise, enjoy using the program.
 # Instruction
 Note: If you enter an invalid input, the program will ask you to input your option again.  
 
+Run "Batch Renamer for Windows.py"
+
 ***Step 1***: From the menu, choose the function that you want to perform and enter the corresponding number followed by enter.  
 ***Step 2***: Type **y** to confirm or **n** to deny. (Not case sensitive)  
 
